@@ -1,11 +1,6 @@
 # ProductStock
 A stock control code that query a product array and compare the product's prices and amounts.
 
-
-![Uploading image.png…]()
-
-![Uploading image.png…]()
-
 ![Uploading image.png…]()
 
 
